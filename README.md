@@ -1,18 +1,3 @@
-<br>
-<img align="center" alt="GIF" height="150px" src="https://dl.dropbox.com/s/gnbhr4ntoyna4hh/chikka.gif"/>
-<img align="right" alt="GIF" height="125px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" />
-
-## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-- 👋 Hi, I’m @ViratUp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ViratUp/ViratUp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 </i></b></h3>
 <h3 align="center">
 <img align="center" alt="line" src="https://raw.githubusercontent.com/DEADH4X/DEADH4X/main/20221006_224841.gif">
@@ -24,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 <p><img align="right" alt="gif" src="https://github.com/DEADH4X/DEADH4X/blob/main/20220728_223728.gif" width="270" height="150" /></p>
 
-<p align="center"><a href="https://t.me/DEADH4X"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<p align="center"><a href="https://t.me/teamcrackfb"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 
 <h3> 𝙂𝙄𝙏𝙃𝙐𝘽 𝙎𝙏𝘼𝙏𝙐𝙎 : <img align ='center' src='https://github.com/DEADH4X/DEADH4X/blob/main/43bf277e2f8620f3ffa874fbaec55a3c.gif' width = '50px'></h2>
 
@@ -35,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 <h2> 𝙎𝙏𝘼𝙏𝙄𝙎𝙏𝙄𝘾𝙎 :</h2>
 
-<a href="https://github.com/DEADH4X"><img width=550 src="https://github-profile-trophy.vercel.app/?username=DEADH4X&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
+<a href="https://github.com/ViratUp"><img width=550 src="https://github-profile-trophy.vercel.app/?username=DEADH4X&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 <h3> 𝘼𝙉𝘼𝙇𝙔𝙏𝙄𝘾𝙎 : <img align ='center' src='https://github.com/DEADH4X/DEADH4X/blob/main/Comp_13.gif' width = '60px'></h2>
 
@@ -47,11 +32,11 @@ You can click the Preview link to take a look at your changes.
 <h3> 𝘾𝙊𝙉𝙏𝘼𝘾𝙏 𝙈𝙀 : <img align ='center' src='https://github.com/DEADH4X/DEADH4X/blob/main/contact-us1.gif' width = '40px'></h2>
 
 <p align="left">
-<a href="https://twitter.com/deadh4x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deadh4x" height="30" width="40" /></a>
-<a href="https://fb.com/deadh4x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deadh4x" height="30" width="40" /></a>
-<a href="https://m.me/DEADH4X"><img align="left" title="Messenger" alt="Messenger" width="30px" src="https://i.ibb.co/Cn8FHym/messenger.png" /></a>
-<a href="https://instagram.com/deadh4x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deadh4x" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/rBREVagaRs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/rBREVagaRs" height="30" width="40" /></a>
+<a href="https://twitter.com/r0m4m99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deadh4x" height="30" width="40" /></a>
+<a href="https://fb.com/RO M AN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deadh4x" height="30" width="40" /></a>
+<a href="https://m.me/RO M AN"><img align="left" title="Messenger" alt="Messenger" width="30px" src="https://i.ibb.co/Cn8FHym/messenger.png" /></a>
+<a href="https://instagram.com/ll._.ittz7ama._.ll" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deadh4x" height="30" width="40" /></a>
+
 </p>
 
 <h3> 𝘼𝘽𝙊𝙐𝙏 𝙈𝙀 : 
