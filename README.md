@@ -5,7 +5,6 @@
 &nbsp; OPEN SOURCE FREE &nbsp;
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 <img align="center" alt="line" src="https://raw.githubusercontent.com/DEADH4X/DEADH4X/main/20221006_224841.gif">
-<img align ='left' src='https://github.com/DEADH4X/DEADH4X/blob/main/20220731_105425.png' width = '200px' height="20"></h2>
 
 
 
