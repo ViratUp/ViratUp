@@ -7,7 +7,7 @@
 <img align="center" alt="line" src="https://raw.githubusercontent.com/DEADH4X/DEADH4X/main/20221006_224841.gif">
 <img align ='left' src='https://github.com/DEADH4X/DEADH4X/blob/main/20220731_105425.png' width = '200px' height="20"></h2>
 
-<p><img align="right" alt="gif" src="https://github.com/DEADH4X/DEADH4X/blob/main/20220728_223728.gif" width="270" height="150" /></p>
+
 
 <p align="center"><a href="https://t.me/teamcrackfb"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
 
@@ -43,11 +43,11 @@
 
 <img align="center" alt="line" src="https://raw.githubusercontent.com/DEADH4X/DEADH4X/main/20221006_224841.gif">
 
-- 𝗡𝗔𝗠𝗘 : 𝗡𝗔𝗬𝗘𝗠 𝗛𝗢𝗦𝗦𝗔𝗜𝗡
+- 𝗡𝗔𝗠𝗘 : V I R A T U P
  
 <img align="center" alt="line" src="https://raw.githubusercontent.com/DEADH4X/DEADH4X/main/20221006_224841.gif">
  
-- 𝗖𝗢𝗨𝗡𝗧𝗥𝗬 : 𝗕𝗔𝗡𝗚𝗟𝗔𝗗𝗘𝗦𝗛
+- 𝗖𝗢𝗨𝗡𝗧𝗥𝗬 : K U R D S T A N
  
 <img align="center" alt="line" src="https://raw.githubusercontent.com/DEADH4X/DEADH4X/main/20221006_224841.gif">
  
